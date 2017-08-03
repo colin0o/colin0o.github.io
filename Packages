@@ -1,0 +1,6 @@
+Package: com.macciti.andorathemeios8
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: z3ct0r <colin.johnston.the1@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename:
