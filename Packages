@@ -3,4 +3,12 @@ Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: z3ct0r <colin.johnston.the1@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename:
+Filename: com.macciti.andorathemeios8_1.2.1_iphoneos-arm
+Size: 2556648
+MD5sum: d3788cc5139a61a850eb90c3d4b4fa04
+SHA1: 122d57d4377cc43e241aedc96e1402e9fd738ea6
+SHA256: 0d5f2dffdd155022f5e4df1e25477b2121e3f2131243c60311a77cdb29f17869
+Section: Themes
+Author: z3ct0r <colin.johnston.the1@gmail.com>
+Depiction: https://colin0o.github.io/depic/andora/index.html
+Name: Andora iOS 10
