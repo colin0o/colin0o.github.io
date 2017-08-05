@@ -3,7 +3,7 @@ Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: z3ct0r <colin.johnston.the1@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: debs//com.macciti.andorathemeios8_1.2.1_iphoneos-arm
+Filename: debs//com.macciti.andorathemeios8_1.2.1_iphoneos-arm.deb
 Size: 2556648
 MD5sum: d3788cc5139a61a850eb90c3d4b4fa04
 SHA1: 122d57d4377cc43e241aedc96e1402e9fd738ea6
@@ -18,7 +18,7 @@ Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: z3ct0r <colin.johnston.the1@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: debs//com.jasonaramday.flaticonsios10_1.5_iphoneos-arm
+Filename: debs//com.jasonaramday.flaticonsios10_1.5_iphoneos-arm.deb
 Size: 1358032
 MD5sum: bf9062c180d2dec9e40233fb2b43be5f
 SHA1: 912ae6f3b69d1219ec3586c40536d82fc59c6f2c
