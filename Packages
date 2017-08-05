@@ -28,3 +28,19 @@ Description: FlatIcons is neat
 Author: Jason Aram Day <jday72805@gmail.com>
 Depiction: https://colin0o.github.io/depic/flaticons/index.html
 Name: FlatIcons iOS 10
+
+Package: com.z3ct0r.glyphsy
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: z3ct0r <colin.johnston.the1@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: debs//com.z3ct0r.glyphsy_1_iphoneos-arm.deb
+Size: 55300
+MD5sum: a3d59c11d5ece7b6844e9098672827a8
+SHA1: b5c52f96523154c2188e117dc0a03209a40854bb
+SHA256: 01e415931cbef7c321dc6c43e5251f5542fffca0458d708f75a9083b9aba46a7
+Section: Themes
+Description: Glyphsy
+Author: z3ct0r <colin.johnston.the1@gmail.com>
+Depiction: https://colin0o.github.io/depic/glyphsy/index.html
+Name: Glyphsy
